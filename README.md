@@ -2,16 +2,16 @@
 Code used to generate a random Sim in the Sims 4!
 
 #### The output simply displays random values for the following Sim attributes: ####
-Type -- Whether the Sim is a human or an occult Sim  
-Gender -- The gender of the sim (male or female)  
-Age -- The age of the sim (young adult, adult, elder)  
-Voice -- The number at which the voice slider is set (1 being the highest setting, 6 being the lowest)  
-Walk -- The walkstyle of the Sim (Default, Bouncy, etc.)  
-First Name Dice CLicks -- The number of times the random dice is clicked for a random first name  
-Last Name Dice Clicks -- The number of times the random dice is clicked for a random last name  
-Appearance Dice Clicks -- The number of times the random dice is clicked for the appearance of the Sim (face structure, clothes, etc.)  
-Aspiration -- The Sim's aspiration in game (Best Selling Author, Big Happy Family, etc.)  
-Trait 1, 2, and 3 -- The three traits of the randomly generated Sim (evil, cheerful, hot-headed, etc.)  
+**Type** -- Whether the Sim is a human or an occult Sim  
+**Gender** -- The gender of the sim (male or female)  
+**Age** -- The age of the sim (young adult, adult, elder)  
+**Voice** -- The number at which the voice slider is set (1 being the highest setting, 6 being the lowest)  
+**Walk** -- The walkstyle of the Sim (Default, Bouncy, etc.)  
+**First Name Dice CLicks** -- The number of times the random dice is clicked for a random first name  
+**Last Name Dice Clicks** -- The number of times the random dice is clicked for a random last name  
+**Appearance Dice Clicks** -- The number of times the random dice is clicked for the appearance of the Sim (face structure, clothes, etc.)  
+**Aspiration** -- The Sim's aspiration in game (Best Selling Author, Big Happy Family, etc.)  
+**Trait 1, 2, and 3** -- The three traits of the randomly generated Sim (evil, cheerful, hot-headed, etc.)  
 
 #### Example program output: ####
 *** RANDOM SIM GENERATED **************************  
